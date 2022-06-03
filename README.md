@@ -2,5 +2,5 @@
 - 👀 I’m interested in Cross Platform Application Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Youtube
-- 📫 How to reach me: website: http://praveenrelli.ml
+- 📫 How to reach me: website: http://praveenrelli.ml | Linkdin: praveen-relli-7b3b9a203
 
